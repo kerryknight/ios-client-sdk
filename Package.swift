@@ -37,14 +37,6 @@ let package = Package(
                 "LaunchDarkly/GeneratedCode",
                 "LaunchDarkly/LaunchDarklyTests",
                 "LaunchDarkly/LaunchDarkly/Support"
-            ],
-            sources: [
-                "LaunchDarkly/LaunchDarkly/Extensions",
-                "LaunchDarkly/LaunchDarkly/Models",
-                "LaunchDarkly/LaunchDarkly/Networking",
-                "LaunchDarkly/LaunchDarkly/Service Objects",
-                "LaunchDarkly/LaunchDarkly/LDClient.swift",
-                "LaunchDarkly/LaunchDarkly/LDCommon.swift"
             ]
         )
     ]
